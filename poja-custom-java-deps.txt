@@ -1,0 +1,1 @@
+implementation group: 'org.bytedeco', name: 'opencv', version: '4.9.0-1.5.10'
